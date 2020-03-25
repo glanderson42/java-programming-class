@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"JavadocExample","l":"calculateFromArgs(String[], double)","url":"calculateFromArgs(java.lang.String[],double)"},{"p":"<Unnamed>","c":"JavadocExample","l":"JavadocExample()","url":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"JavadocExample","l":"main(String[])","url":"main(java.lang.String[])"}]
